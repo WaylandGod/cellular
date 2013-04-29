@@ -1,0 +1,9 @@
+D:\数学力量\细胞元自动机\模拟器\CellularAutomation\bin\Release\CellularAutomation.exe
+D:\数学力量\细胞元自动机\模拟器\CellularAutomation\bin\Release\CellularAutomation.pdb
+D:\数学力量\细胞元自动机\模拟器\CellularAutomation\obj\Release\ResolveAssemblyReference.cache
+D:\数学力量\细胞元自动机\模拟器\CellularAutomation\obj\Release\CellularAutomation.Form1.resources
+D:\数学力量\细胞元自动机\模拟器\CellularAutomation\obj\Release\CellularAutomation.Form2.resources
+D:\数学力量\细胞元自动机\模拟器\CellularAutomation\obj\Release\CellularAutomation.Properties.Resources.resources
+D:\数学力量\细胞元自动机\模拟器\CellularAutomation\obj\Release\CellularAutomation.csproj.GenerateResource.Cache
+D:\数学力量\细胞元自动机\模拟器\CellularAutomation\obj\Release\CellularAutomation.exe
+D:\数学力量\细胞元自动机\模拟器\CellularAutomation\obj\Release\CellularAutomation.pdb

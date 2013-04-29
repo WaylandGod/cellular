@@ -1,0 +1,9 @@
+D:\dev\net\winform\CellAutoMachine\CellAutoMachine\bin\Debug\CellAutoMachine.exe
+D:\dev\net\winform\CellAutoMachine\CellAutoMachine\bin\Debug\CellAutoMachine.pdb
+D:\dev\net\winform\CellAutoMachine\CellAutoMachine\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\net\winform\CellAutoMachine\CellAutoMachine\obj\Debug\CellAutoMachine.Form1.resources
+D:\dev\net\winform\CellAutoMachine\CellAutoMachine\obj\Debug\CellAutoMachine.Properties.Resources.resources
+D:\dev\net\winform\CellAutoMachine\CellAutoMachine\obj\Debug\CellAutoMachine.csproj.GenerateResource.Cache
+D:\dev\net\winform\CellAutoMachine\CellAutoMachine\obj\Debug\CellAutoMachine.exe
+D:\dev\net\winform\CellAutoMachine\CellAutoMachine\obj\Debug\CellAutoMachine.pdb
+D:\dev\net\winform\CellAutoMachine\CellAutoMachine\obj\Debug\CellAutoMachine.Form2.resources

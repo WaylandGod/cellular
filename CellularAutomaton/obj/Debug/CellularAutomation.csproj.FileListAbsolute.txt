@@ -1,0 +1,11 @@
+D:\dev\net\winform\CellularAutomation\CellularAutomation\bin\Debug\CellularAutomation.exe
+D:\dev\net\winform\CellularAutomation\CellularAutomation\bin\Debug\CellularAutomation.pdb
+D:\dev\net\winform\CellularAutomation\CellularAutomation\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\net\winform\CellularAutomation\CellularAutomation\obj\Debug\CellularAutomation.Form1.resources
+D:\dev\net\winform\CellularAutomation\CellularAutomation\obj\Debug\CellularAutomation.Form2.resources
+D:\dev\net\winform\CellularAutomation\CellularAutomation\obj\Debug\CellularAutomation.Properties.Resources.resources
+D:\dev\net\winform\CellularAutomation\CellularAutomation\obj\Debug\CellularAutomation.csproj.GenerateResource.Cache
+D:\dev\net\winform\CellularAutomation\CellularAutomation\obj\Debug\CellularAutomation.exe
+D:\dev\net\winform\CellularAutomation\CellularAutomation\obj\Debug\CellularAutomation.pdb
+D:\数学力量\细胞元自动机\模拟器\CellularAutomation\obj\Debug\CellularAutomation.exe
+D:\数学力量\细胞元自动机\模拟器\CellularAutomation\obj\Debug\CellularAutomation.pdb
